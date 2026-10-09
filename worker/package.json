@@ -1,0 +1,8 @@
+{
+  "name": "voice-agent-backend",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^4.147.0"
+  }
+}
